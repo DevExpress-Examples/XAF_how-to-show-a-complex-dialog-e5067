@@ -1,0 +1,54 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ComplexDialogSample.Module", "ComplexDialogSample.Module\ComplexDialogSample.Module.vbproj", "{4C0061F0-6A9F-40DA-9FE0-FA0ADCB941D4}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ComplexDialogSample.Module.Web", "ComplexDialogSample.Module.Web\ComplexDialogSample.Module.Web.vbproj", "{8CC4C7AD-5088-4944-91D0-22CD0A8D72FB}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ComplexDialogSample.Web", "ComplexDialogSample.Web\ComplexDialogSample.Web.vbproj", "{6B884374-E9B2-4AEE-AECE-3C5076E35BA2}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ComplexDialogSample.Module.Win", "ComplexDialogSample.Module.Win\ComplexDialogSample.Module.Win.vbproj", "{8DFAC161-B2D8-488F-BA6F-1E0B9401EBCA}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ComplexDialogSample.Win", "ComplexDialogSample.Win\ComplexDialogSample.Win.vbproj", "{8E92F823-B425-4AB3-8AB6-28EB2F6B7FB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		EasyTest|Any CPU = EasyTest|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C0061F0-6A9F-40DA-9FE0-FA0ADCB941D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C0061F0-6A9F-40DA-9FE0-FA0ADCB941D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C0061F0-6A9F-40DA-9FE0-FA0ADCB941D4}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{4C0061F0-6A9F-40DA-9FE0-FA0ADCB941D4}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{4C0061F0-6A9F-40DA-9FE0-FA0ADCB941D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C0061F0-6A9F-40DA-9FE0-FA0ADCB941D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CC4C7AD-5088-4944-91D0-22CD0A8D72FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CC4C7AD-5088-4944-91D0-22CD0A8D72FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CC4C7AD-5088-4944-91D0-22CD0A8D72FB}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{8CC4C7AD-5088-4944-91D0-22CD0A8D72FB}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{8CC4C7AD-5088-4944-91D0-22CD0A8D72FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CC4C7AD-5088-4944-91D0-22CD0A8D72FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B884374-E9B2-4AEE-AECE-3C5076E35BA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B884374-E9B2-4AEE-AECE-3C5076E35BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B884374-E9B2-4AEE-AECE-3C5076E35BA2}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{6B884374-E9B2-4AEE-AECE-3C5076E35BA2}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{6B884374-E9B2-4AEE-AECE-3C5076E35BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B884374-E9B2-4AEE-AECE-3C5076E35BA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DFAC161-B2D8-488F-BA6F-1E0B9401EBCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DFAC161-B2D8-488F-BA6F-1E0B9401EBCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DFAC161-B2D8-488F-BA6F-1E0B9401EBCA}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{8DFAC161-B2D8-488F-BA6F-1E0B9401EBCA}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{8DFAC161-B2D8-488F-BA6F-1E0B9401EBCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DFAC161-B2D8-488F-BA6F-1E0B9401EBCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E92F823-B425-4AB3-8AB6-28EB2F6B7FB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E92F823-B425-4AB3-8AB6-28EB2F6B7FB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E92F823-B425-4AB3-8AB6-28EB2F6B7FB9}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{8E92F823-B425-4AB3-8AB6-28EB2F6B7FB9}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{8E92F823-B425-4AB3-8AB6-28EB2F6B7FB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E92F823-B425-4AB3-8AB6-28EB2F6B7FB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

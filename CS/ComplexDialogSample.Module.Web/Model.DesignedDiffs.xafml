@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <SchemaModules>
+    <SchemaModule Name="SystemAspNetModule" Version="13.2.6.0" IsNewNode="True" />
+    <SchemaModule Name="SystemModule" Version="13.2.6.0" IsNewNode="True" />
+  </SchemaModules>
+  <Views>
+    <DetailView Id="OrderTemplate_DetailView" CollectionsEditMode="Edit" />
+  </Views>
+</Application>
