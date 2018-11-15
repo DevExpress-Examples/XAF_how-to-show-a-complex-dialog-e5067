@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [BusinessObjects.cs](./CS/ComplexDialogSample.Module/BusinessObjects/BusinessObjects.cs) (VB: [BusinessObjects.vb](./VB/ComplexDialogSample.Module/BusinessObjects/BusinessObjects.vb))
+* [MyController.cs](./CS/ComplexDialogSample.Module/Controllers/MyController.cs) (VB: [MyController.vb](./VB/ComplexDialogSample.Module/Controllers/MyController.vb))
+<!-- default file list end -->
 # How to show a complex dialog
 
 
